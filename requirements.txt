@@ -1,0 +1,14 @@
+datasets==2.17.0
+chardet @ file:///tmp/build/80754af9/chardet_1607706775000/work
+fschat==0.2.36
+huggingface-hub==0.20.3
+protobuf==4.25.2
+tiktoken==0.6.0
+tokenizers==0.15.2
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+tqdm==4.66.2
+transformers==4.37.2
+livelossplot==0.5.5
+sentencepiece==0.1.99
